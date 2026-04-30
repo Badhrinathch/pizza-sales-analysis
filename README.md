@@ -25,6 +25,12 @@ All key insights and KPIs were validated using SQL queries.
 
 These queries ensure the accuracy of the dashboard and simulate a real-world data validation workflow.
 
+## 💡 Business Recommendations
+- Increase staffing during peak hours (12–1 PM, 5–8 PM)  
+- Promote high-performing categories like Classic pizzas  
+- Optimize inventory for large-sized pizzas  
+- Improve marketing for low-performing items  
+
 ## 📁 Files
 - `Pizza_sales_dashboard2.png` → Dashboard  
 - `Pizza_sales_dataanalyst_dashboard2.xlsx` → Analysis file  
